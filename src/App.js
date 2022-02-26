@@ -18,7 +18,7 @@ function App() {
             <Header />
       </div>
       <Routes>
-        <Route path='/' element={<Home />} defaut></Route>
+        <Route path='/music' element={<Home />} defaut></Route>
         <Route path='/todo' element={
           <ProviderTodo>
             <Page_1 />

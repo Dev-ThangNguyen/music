@@ -20,7 +20,7 @@ function Header () {
                 style={{ maxHeight: '100px' }}
                 navbarScroll
                 >
-                    <NavLink className={style.NavLink} to='/'>Chill Coffee</NavLink>
+                    <NavLink className={style.NavLink} to='/music'>Chill Coffee</NavLink>
                     <NavLink className={style.NavLink} to='/todo'>Todo</NavLink>
                     {/* <NavLink className={style.NavLink} to='/page2'>Page-2</NavLink>
                     <NavLink className={style.NavLink} to='/page3'>Page-3</NavLink> */}
