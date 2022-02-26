@@ -5,7 +5,7 @@ import style from '../page_2/Page_2.module.scss'
 function Page_2 () {
     return (
         <div className={style.wrap}>
-            <Counter style={{margin: 'auto'}}/>
+            <Counter />
         </div>
     )
 }

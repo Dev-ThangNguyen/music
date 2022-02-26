@@ -56,9 +56,9 @@ function Music ( {audioRainRef} ) {
             audioRainRef.current.volume = 0.2
         }
     }
-    useEffect(() => {
-        audioRef.current.play()
-    }, [index])
+    // useEffect(() => {
+    //     audioRef.current.play()
+    // }, [index])
     
     return(
         <div className={clsx(style_1.music, style_1.backgroundVideo)}>
