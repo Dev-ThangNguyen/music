@@ -1,0 +1,31 @@
+
+.wrap {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: #33FF83;
+
+    h1 {
+        color: #297605;
+        margin: auto;
+    }
+}
+
+.List {
+    width: 450px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: auto;
+    background-color: #36F090;
+    &::-webkit-scrollbar{
+        display: none;
+    }
+    transition: 0.4s;
+}
+
+.bgSubList {
+    transition: 0.4s;
+    background-image: url('https://img.pikbest.com/png-images/20190918/cartoon-snail-loading-loading-gif-animation_2734139.png!bw700');
+    background-position: center;
+    background-size: cover;
+}
