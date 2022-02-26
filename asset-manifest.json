@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/music/static/css/main.906fa6e4.css",
+    "main.js": "/music/static/js/main.ce5b6990.js",
+    "static/js/787.1748316e.chunk.js": "/music/static/js/787.1748316e.chunk.js",
+    "static/media/chill-xua.mp3": "/music/static/media/chill-xua.4ac09df2fd20a10b92d9.mp3",
+    "static/media/music-rain.mp3": "/music/static/media/music-rain.1ac4f3cd8a60aced42be.mp3",
+    "static/media/sai-gon.mp3": "/music/static/media/sai-gon.1b071cecb4742dea8053.mp3",
+    "static/media/dndtd.mp3": "/music/static/media/dndtd.cec179d4d28dbc5f297b.mp3",
+    "static/media/sontung-1.mp3": "/music/static/media/sontung-1.e964e29f49b8f1243924.mp3",
+    "static/media/bo-em-vao-ba-lo.mp3": "/music/static/media/bo-em-vao-ba-lo.348eb2114bca83d13ba4.mp3",
+    "static/media/soxo.mp3": "/music/static/media/soxo.ce680e512787754b9051.mp3",
+    "static/media/video-night-rain.mp4": "/music/static/media/video-night-rain.12914bb59164a2fbe962.mp4",
+    "static/media/video-day-rain.mp4": "/music/static/media/video-day-rain.6520af01e2bc41c3b9b2.mp4",
+    "static/media/video-day.mp4": "/music/static/media/video-day.21316ca58772d59db7df.mp4",
+    "static/media/video-night.mp4": "/music/static/media/video-night.12bf6b75acb863ab9333.mp4",
+    "index.html": "/music/index.html",
+    "main.906fa6e4.css.map": "/music/static/css/main.906fa6e4.css.map",
+    "main.ce5b6990.js.map": "/music/static/js/main.ce5b6990.js.map",
+    "787.1748316e.chunk.js.map": "/music/static/js/787.1748316e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.906fa6e4.css",
+    "static/js/main.ce5b6990.js"
+  ]
+}
