@@ -22,8 +22,8 @@ function Header () {
                 >
                     <NavLink className={style.NavLink} to='/music'>Chill Coffee</NavLink>
                     <NavLink className={style.NavLink} to='/todo'>Todo</NavLink>
-                    {/* <NavLink className={style.NavLink} to='/page2'>Page-2</NavLink>
-                    <NavLink className={style.NavLink} to='/page3'>Page-3</NavLink> */}
+                    <NavLink className={style.NavLink} to='/page2'>Page-2</NavLink>
+                    <NavLink className={style.NavLink} to='/page3'>Page-3</NavLink>
                 </Nav>
                 <Button variant="outline-warning">Login</Button>
             </Navbar.Collapse>
