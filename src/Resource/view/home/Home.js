@@ -38,7 +38,7 @@ function Home () {
     }
 
     return (
-        <>
+        <div>
             <div className={style.wrap}>
                 <div className={clsx(style.wrapRain, style.backgroundVideo)}>
                     <div ref={nightRainRef} className={clsx(style.backgroundVideo, style.night)}>
@@ -77,7 +77,7 @@ function Home () {
             src={musicRain}
             loop
             />
-        </>
+        </div>
     )
 }
 
